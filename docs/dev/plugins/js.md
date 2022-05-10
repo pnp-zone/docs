@@ -17,6 +17,10 @@ window.pnpZone = {
 }
 ```
 
+The `waw` property is a promise resolving to a `Screen` object which manages "windows".
+
+See [here](./waw.md) for API.
+
 ## CSS
 
 The main stylesheet for your plugins is attached to `<head>` in the echo template (See go plugin API).
