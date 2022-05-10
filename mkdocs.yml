@@ -7,3 +7,7 @@ edit_uri: https://github.com/pnp-zone/docs/edit/main/docs/
 markdown_extensions:
   - admonition
 nav:
+  - Home: index.md
+  - Developer Resources:
+    - Writing Plugins:
+      - JS Api: dev/plugins/js.md
