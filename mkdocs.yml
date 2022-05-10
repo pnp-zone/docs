@@ -10,5 +10,6 @@ nav:
   - Home: index.md
   - Developer Resources:
     - Writing Plugins:
+      - Go plugins: dev/plugins/index.md
       - Javascript API: dev/plugins/js.md
       - waw: dev/plugins/waw.md
