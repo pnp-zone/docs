@@ -1,15 +1,16 @@
-site_name: pnp-zone documentation 
+---
+site_name: pnp-zone documentation
 theme:
   name: material
 repo_url: https://github.com/pnp-zone/pnp-zone
-repo_name: pnp-zone/pnp-zone 
+repo_name: pnp-zone/pnp-zone
 edit_uri: https://github.com/pnp-zone/docs/edit/main/docs/
 markdown_extensions:
   - admonition
 nav:
   - Home: index.md
   - Developer Resources:
-    - Writing Plugins:
-      - Go plugins: dev/plugins/index.md
-      - Javascript API: dev/plugins/js.md
-      - waw: dev/plugins/waw.md
+      - Writing Plugins:
+          - Go plugins: dev/plugins/index.md
+          - Javascript API: dev/plugins/js.md
+          - waw: dev/plugins/waw.md
